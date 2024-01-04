@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\grnt\grnt\grnt\bin\Debug\grnt.exe.config
+C:\Users\User\Desktop\grnt\grnt\grnt\obj\Debug\grnt.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\grnt\grnt\grnt\obj\Debug\görüntüişleme1.Form1.resources
+C:\Users\User\Desktop\grnt\grnt\grnt\obj\Debug\grnt.Properties.Resources.resources
+C:\Users\User\Desktop\grnt\grnt\grnt\obj\Debug\grnt.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\grnt\grnt\grnt\bin\Debug\grnt.exe
+C:\Users\User\Desktop\grnt\grnt\grnt\bin\Debug\grnt.pdb
+C:\Users\User\Desktop\grnt\grnt\grnt\obj\Debug\grnt.exe
+C:\Users\User\Desktop\grnt\grnt\grnt\obj\Debug\grnt.pdb
+C:\Users\User\Desktop\194410017 Oğuzhan Kantar\grnt\grnt\grnt\bin\Debug\grnt.exe.config
+C:\Users\User\Desktop\194410017 Oğuzhan Kantar\grnt\grnt\grnt\obj\Debug\grnt.exe
+C:\Users\User\Desktop\194410017 Oğuzhan Kantar\grnt\grnt\grnt\obj\Debug\grnt.pdb
